@@ -13,8 +13,7 @@
     "test-promise": "mocha --grep promise -- --harmony_arrow_functions",
     "test-class": "mocha --grep class"
   },
-  "author": "Tony Pujals (http://twitter.com/subfuzion)",
-  "license": "ISC",
+  "author": "Siva Das",
   "devDependencies": {
     "chai": "^2.2.0",
     "mocha": "^2.2.1"

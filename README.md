@@ -15,5 +15,5 @@ You can also run individual tests:
     npm run test-promise
     npm run test-class
 
-You can view the presentation as [markdown](https://github.com/tonypujals/demo-iojs-es6/blob/master/presentation.md) or a [pdf](https://github.com/tonypujals/demo-iojs-es6/raw/master/presentation.pdf).
+You can view the presentation as [markdown](https://github.com/sivadas/demo-iojs-es6/blob/master/presentation.md) or a [pdf](https://github.com/sivadas/demo-iojs-es6/raw/master/presentation.pdf).
 

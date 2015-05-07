@@ -51,7 +51,7 @@ nvm install iojs
 * But make sure to add `"use strict"` to top of module
 
 ### The rest of this presentation goes with the test code here:
-[https://github.com/tonypujals/demo-iojs-es6/](https://github.com/tonypujals/demo-iojs-es6/)
+[https://github.com/sivadas/demo-iojs-es6/](https://github.com/sivadas/demo-iojs-es6/)
 
 ---
 
@@ -379,7 +379,7 @@ var p = new Person();
 
 ## Resources
 
-[https://github.com/tonypujals/demo-iojs-es6](https://github.com/tonypujals/demo-iojs-es6)
+[https://github.com/sivadas/demo-iojs-es6](https://github.com/sivadas/demo-iojs-es6)
 
 [https://iojs.org/en/es6.html](https://iojs.org/en/es6.html)
 
