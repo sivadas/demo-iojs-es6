@@ -4,6 +4,8 @@ io.js Ecmascript 6 language features
     npm install
     npm test
     
+    There are other commands too.
+    
 You can also run individual tests:
 
     npm run test-let
